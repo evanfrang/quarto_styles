@@ -1,13 +1,12 @@
 ---
-title: "Your Title Here"
+title: "Project Title Here"
 author: "Evan Frangipane"
 format:
-  html:
+  gfm:
     toc: true
     code-fold: true
-    css: styles.css
     embed-resources: true
-    html-math-method: katex
+    output-file: README.md
 execute:
   echo: true
   warning: false
@@ -16,23 +15,67 @@ execute:
 
 ## 🧠 Goal
 
-Brief summary of the goal.
+Briefly describe what this project does, what problem it solves, or what makes it interesting.
+
+::: {.callout-note title="Live Demo"}
+This project is hosted at [example.com](https://example.com). It may take a moment to wake up if hosted on a free tier.
+:::
+
+---
 
 ## 📊 Dataset
 
-- Source
-- Description
-- Preprocessing
+- Source: [Link to dataset](#)
+- Description: What’s in it?
+- Preprocessing: What did you do to it?
+
+![](images/class_hist.png){fig-align="center"}
+
+---
 
 ## 🧪 Results
 
-### Model 1
-- Metrics
-- Confusion matrix
+### 🔹 Logistic Regression
 
-### Model 2
-- Metrics
+| Class        | Precision | Recall | F1-Score | Support |
+|--------------|-----------|--------|----------|---------|
+| astro        | 0.95      | 0.93   | 0.94     | 3531    |
+| cond_matter  | 0.87      | 0.88   | 0.87     | 3435    |
+| ...          | ...       | ...    | ...      | ...     |
+
+![](images/moon.jpg){fig-align="center"}
+
+### 🔹 DistilBERT
+
+- Training time: ~6 hours
+- Performance: slightly better, slower inference
+
+---
 
 ## 🔚 Conclusion
 
-Brief takeaway and future directions.
+Summarize your takeaways. Is the model good enough? What could be improved?
+
+---
+
+## 🚀 Usage
+
+```bash
+# install requirements
+pip install -r requirements.txt
+
+# run model locally
+python app.py
+```
+
+---
+
+## 📝 Notes
+
+This README is generated via [Quarto](https://quarto.org). To rebuild:
+
+```bash
+quarto render arxiv.qmd --to gfm
+```
+
+Or set up your project so this is automatic.

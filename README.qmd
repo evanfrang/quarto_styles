@@ -1,0 +1,38 @@
+---
+title: "Your Title Here"
+author: "Evan Frangipane"
+format:
+  html:
+    toc: true
+    code-fold: true
+    css: styles.css
+    embed-resources: true
+    html-math-method: katex
+execute:
+  echo: true
+  warning: false
+  message: false
+---
+
+## 🧠 Goal
+
+Brief summary of the goal.
+
+## 📊 Dataset
+
+- Source
+- Description
+- Preprocessing
+
+## 🧪 Results
+
+### Model 1
+- Metrics
+- Confusion matrix
+
+### Model 2
+- Metrics
+
+## 🔚 Conclusion
+
+Brief takeaway and future directions.

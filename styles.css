@@ -1,0 +1,65 @@
+/* styles.css — Quarto polish for readability & elegance */
+
+/* General text styling */
+body {
+  font-family: "Helvetica Neue", sans-serif;
+  line-height: 1.6;
+  max-width: 800px;
+  margin: auto;
+  padding: 2em;
+}
+
+/* Headings */
+h1, h2, h3 {
+  font-weight: 600;
+  margin-top: 1.5em;
+  border-bottom: 1px solid #ddd;
+  padding-bottom: 0.3em;
+}
+
+/* Images */
+img {
+  display: block;
+  margin: 1.5em auto;
+  max-width: 90%;
+}
+
+/* Tables */
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 1em 0;
+  font-size: 0.95em;
+}
+
+th, td {
+  border: 1px solid #ccc;
+  padding: 8px 10px;
+  text-align: left;
+}
+
+/* Callouts (notes, warnings, etc.) */
+div.callout {
+  border-left: 4px solid #888;
+  padding: 1em;
+  margin: 1.5em 0;
+  background-color: #f9f9f9;
+  border-radius: 6px;
+}
+
+/* TOC (Table of Contents) */
+nav#TOC {
+  background-color: #f2f2f2;
+  padding: 1em;
+  border: 1px solid #ddd;
+  border-radius: 6px;
+}
+
+/* Code blocks */
+pre {
+  background-color: #f5f5f5;
+  padding: 1em;
+  border-radius: 6px;
+  overflow-x: auto;
+  font-size: 0.9em;
+}

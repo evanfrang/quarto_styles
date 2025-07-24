@@ -29,7 +29,7 @@ This project is hosted at [example.com](https://example.com). It may take a mome
 - Description: What’s in it?
 - Preprocessing: What did you do to it?
 
-![](images/class_hist.png){fig-align="center"}
+![](images/moon.jpg){fig-align="center"}
 
 ---
 

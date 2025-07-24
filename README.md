@@ -19,7 +19,7 @@ makes it interesting.
 -   Description: What’s in it?
 -   Preprocessing: What did you do to it?
 
-<img src="images/class_hist.png" data-fig-align="center" />
+<img src="images/moon.jpg" data-fig-align="center" />
 
 ------------------------------------------------------------------------
 

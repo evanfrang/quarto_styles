@@ -28,6 +28,7 @@ makes it interesting.
 ### 🔹 Logistic Regression
 
 <table>
+<caption>Table 1. Log Reg caption</caption>
 <thead>
 <tr>
 <th>Class</th>

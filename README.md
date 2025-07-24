@@ -62,7 +62,7 @@ makes it interesting.
 </tbody>
 </table>
 
-\*\* Table 1. Log Reg caption \*\*
+**Table 1. Log Reg caption**
 
 <img src="images/moon.jpg" data-fig-align="center" />
 

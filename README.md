@@ -28,7 +28,6 @@ makes it interesting.
 ### 🔹 Logistic Regression
 
 <table>
-<caption>Table 1. Log Reg caption</caption>
 <thead>
 <tr>
 <th>Class</th>
@@ -62,6 +61,8 @@ makes it interesting.
 </tr>
 </tbody>
 </table>
+
+\*\* Table 1. Log Reg caption \*\*
 
 <img src="images/moon.jpg" data-fig-align="center" />
 

@@ -43,7 +43,7 @@ This project is hosted at [example.com](https://example.com). It may take a mome
 | cond_matter  | 0.87      | 0.88   | 0.87     | 3435    |
 | ...          | ...       | ...    | ...      | ...     |
 
-: Table 1. Log Reg caption
+** Table 1. Log Reg caption **
 
 ![](images/moon.jpg){fig-align="center"}
 
